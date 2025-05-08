@@ -6,19 +6,19 @@ Tugas UTS Pemrograman Web2 - Semester 4
 ### Hasil Plagiasi:
 🔗 [Link Plagiasi 1](https://smallseotools.com/id/plagiarism-checker/)
 
-<img src="screenshot/plagiasi1.png" width="75%" alt="1">
+<img src="file_uts/plagiarism.png" width="75%" alt="1">
 
 ---
 
 ## 📝 Submit Form
-<img src="screenshot/submitform.png" width="75%" alt="1">
+<img src="file_uts/g.form.png" width="75%" alt="1">
 
 ---
 
 ## 📸 Tampilan
 ### Uji coba 1️⃣:
 > Pada web yang tingkat keamanan rentan:
-<img src="screenshot/ex1-1.png" width="75%" alt="1">
+<img src="file_uts/ujicoba_XSS.png" width="75%" alt="1">
 
 > Pada web yang tingkat keamanan cukup baik:
-<img src="screenshot/ex1_2.png" width="75%" alt="2">
+<img src="file_uts/ujicoba_XSS2.png" width="75%" alt="2">
