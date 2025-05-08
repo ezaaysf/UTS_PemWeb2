@@ -1,7 +1,7 @@
 # Cross-Site Scripting (XSS)
 Tugas UTS Pemrograman Web2 - Semester 4
 
-### 🔗 [Link Medium] https://medium.com/@zayusuf2002/membongkar-cross-site-scripting-xss-eksperimen-langsung-menemukan-celah-keamanan-di-aplikasi-web-14faec02a449
+### 🔗 [Link Medium](https://medium.com/@zayusuf2002/membongkar-cross-site-scripting-xss-eksperimen-langsung-menemukan-celah-keamanan-di-aplikasi-web-14faec02a449)
 
 ### Hasil Plagiasi:
 🔗 [Link Plagiasi](https://smallseotools.com/id/plagiarism-checker/)
