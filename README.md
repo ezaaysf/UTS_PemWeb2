@@ -10,13 +10,13 @@ Tugas UTS Pemrograman Web2 - Semester 4
 
 ---
 
-## 📝 Submit Form
+## Submit Form
 <img src="file_uts/g.form.png" width="75%" alt="1">
 
 ---
 
-## 📸 Tampilan
-### Uji coba 1️⃣:
+## Tampilan
+### Berikut Uji Coba:
 > Pada web yang tingkat keamanan rentan:
 <img src="file_uts/ujicoba_XSS.png" width="75%" alt="1">
 
