@@ -4,7 +4,7 @@ Tugas UTS Pemrograman Web2 - Semester 4
 ### 🔗 [Link Medium] https://medium.com/@zayusuf2002/membongkar-cross-site-scripting-xss-eksperimen-langsung-menemukan-celah-keamanan-di-aplikasi-web-14faec02a449
 
 ### Hasil Plagiasi:
-🔗 [Link Plagiasi 1](https://smallseotools.com/id/plagiarism-checker/)
+🔗 [Link Plagiasi](https://smallseotools.com/id/plagiarism-checker/)
 
 <img src="file_uts/plagiarism.png" width="75%" alt="1">
 
